@@ -47,7 +47,6 @@
                 href="https://www.instagram.com/nyc.geahad.codes/">Follow</a></li>
     </ul>
     <br>
-    <a href="/index.html" style="text-decoration: none;color: rgb(0, 140, 255);">
-        < Return</a>
+
 
 </div>
