@@ -1,0 +1,15 @@
+{
+   "name": "Google Meet Attendance Bot",
+  "version": "1.0",
+  "manifest_version": 1,
+  "description": "Attends google meets for you, responds to teachers questions based on other students answers, leaves class when others start leaving! 😋",
+  "homepage_url": "https://github.com/GSRHackZ/Google-Meet-Attendance-Bot",
+
+    "content_scripts": [
+    {
+      "matches": ["https://meet.google.com/*"],
+      "js": ["Google-Meet-Attendance-Bot/script.js"]
+    }
+  ]
+
+}
