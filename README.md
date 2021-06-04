@@ -1,5 +1,6 @@
 <div style="width:fit-content;height: fit-content;margin: 5%;">
     <h1>Google Meet Attendance Bot 🤖</h1><br>
+    <h4>⭐I'm aware of the new google meets update that is rolling out. I will not update this script until I'm able to use the new version of google meets, which I still can't due to it not being fully out! This still works for the majority of users unless you got the update. (Rare bcuz it's in testing phase..) ⭐</h4>
     <h3>Steps for use: </h3>
     <ol style="margin-bottom:10px;">
         <li>Enter the number of meetings / classes you have</li><br>
